@@ -11,6 +11,12 @@
 
 }
 
+#quemsomos{
+
+    padding: 115px;
+    
+}
+
 /*ajustar overflow do eixo x*/
 
 
@@ -597,3 +603,4 @@ footer{
         color: white;
     }
 }
+
